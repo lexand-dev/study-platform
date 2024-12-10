@@ -12,7 +12,6 @@ import {
 import { Input } from "@/components/ui/input";
 import {
   Bell,
-  ChevronDown,
   Globe,
   Home,
   Search,
